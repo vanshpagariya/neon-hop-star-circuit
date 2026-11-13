@@ -115,7 +115,7 @@ NeonHop-StarCircuit/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/neon-hop-star-circuit.git
+git clone https://github.com/vanshpagariya/neon-hop-star-circuit.git
 cd neon-hop-star-circuit
 ```
 
