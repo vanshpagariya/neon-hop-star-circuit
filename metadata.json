@@ -1,0 +1,6 @@
+{
+  "name": "Neon Hop",
+  "description": "Futuristic 2D arcade platformer with neon physics, robot NOVA, collectibles, and 5 unique star circuit levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
